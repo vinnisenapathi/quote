@@ -1,0 +1,14 @@
+.card{
+    background-image:url("https://nypost.com/wp-content/uploads/sites/2/2022/09/GettyImages-1354452473-e1663026914590.jpg?quality=75&strip=all&w=744");
+    background-size:cover;
+}
+.main-heading{
+    text-align: center;
+    font-family:"Roboto";
+    font-size:120px;
+    color: darkgreen;
+    text-decoration:underline;
+}
+.main{
+    font-size:60px ;
+}
